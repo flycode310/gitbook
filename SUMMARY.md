@@ -6,4 +6,5 @@
   * [执行流程](nginx/process.md)
   * [http](nginx/http.md)
 * [stock](stock.md)
+* [模式识别](pattern.md)
 
