@@ -7,25 +7,25 @@
 		"simple-page-toc": {
 			"maxDepth": 3,
 			"skipFirstH1": true
-		}
-	},
-	"anchor-navigation-ex": {
-		"multipleH1": false,
-		"showLevel": false,
-		"mode": "float",
-		"float": {
-			"floatIcon": "fa fa-navicon",
-			"showLevelIcon": false,
-			"tocLevel1Icon": "fa fa-hand-o-right",
-			"tocLevel2Icon": "fa fa-hand-o-right",
-			"tocLevel3Icon": "fa fa-hand-o-right"
 		},
-		"pageTop": {
-			"floatIcon": "fa fa-navicon",
-			"showLevelIcon": false,
-			"tocLevel1Icon": "fa fa-hand-o-right",
-			"tocLevel2Icon": "fa fa-hand-o-right",
-			"tocLevel3Icon": "fa fa-hand-o-right"
+		"anchor-navigation-ex": {
+			"showLevel": true,
+			"multipleH1": false,
+			"mode": "float",
+			"float": {
+				"floatIcon": "fa fa-navicon",
+				"showLevelIcon": false,
+				"tocLevel1Icon": "fa fa-hand-o-right",
+				"tocLevel2Icon": "fa fa-hand-o-right",
+				"tocLevel3Icon": "fa fa-hand-o-right"
+			},
+			"pageTop": {
+				"floatIcon": "fa fa-navicon",
+				"showLevelIcon": false,
+				"tocLevel1Icon": "fa fa-hand-o-right",
+				"tocLevel2Icon": "fa fa-hand-o-right",
+				"tocLevel3Icon": "fa fa-hand-o-right"
+			}
 		}
 	}
 }
