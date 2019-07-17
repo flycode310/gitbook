@@ -68,3 +68,5 @@ func (fd *netFD) accept() (netfd *netFD, err error) {
 [高并发中的惊群效应](https://blog.csdn.net/second60/article/details/81252106)
 
 [惊群效应](https://cloud.tencent.com/developer/article/1340628)
+
+[linux惊群效应](https://www.cnblogs.com/zafu/p/8251849.html)
